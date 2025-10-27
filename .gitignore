@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# DVC
+.dvc/tmp/
+.dvc/cache/
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# IDE
+.vsc
